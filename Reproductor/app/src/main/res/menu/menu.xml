@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Alegre1" android:title="Alegre"></item>
+    <item android:id="@+id/Sad" android:title="Sad"></item>
+    <item android:id="@+id/Angry" android:title="Angry"></item>
+    <item android:id="@+id/Mad" android:title="Mad"></item>
+    <item android:id="@+id/Lust" android:title="Lust"></item>
+    <item android:id="@+id/Like" android:title="Favoritos"></item>
+</menu>

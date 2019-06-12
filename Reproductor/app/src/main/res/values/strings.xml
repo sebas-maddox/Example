@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">JD Music</string>
+
+    <array name="album1">
+        <item>Alegre</item>
+        <item>Sad</item>
+        <item>Angry</item>
+        <item>Mad</item>
+        <item>Lust</item>
+    </array>
+    <array name="album2">
+        <item>Alegre</item>
+        <item>Sad</item>
+        <item>Angry</item>
+        <item>Mad</item>
+        <item>Lust</item>
+        <item>Like</item>
+    </array>
+
+
+</resources>
